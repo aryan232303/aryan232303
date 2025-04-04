@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan!
 
-### 🚀 Passionate Full-Stack Developer & AI Enthusiast | Open Source Contributor
+### 🚀 Passionate Web Developer & AI / ML Enthusiast | Open Source Contributor
 
 I’m a curious and driven developer who loves crafting scalable web apps and building data-driven ML solutions. Currently working on climate impact prediction using ML and developing a web-based data visualization platform. Always exploring new tools and contributing to open source!
 
