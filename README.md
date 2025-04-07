@@ -51,14 +51,6 @@
 
 ---
 
-## 🌱 Current Project
-
-### 🌾 Data-Driven Models for Climate Change Impact on Agriculture (Odisha)
-
-- 📍 **Districts Covered:** Bhadark, Balasore, Kendrapara  
-- 👨‍💻 **Role:** Frontend & ML Developer  
-- 🛠️ **Tech:** Python, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV, SQL, Django, Power BI, JS, GCP  
-- 🎯 **Goal:** Predict crop yield variations and visualize climate impact for policy analysis.
 
 ---
 
